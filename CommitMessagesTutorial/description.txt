@@ -3,3 +3,5 @@ Keep commit messages under 50 characters
 For description seperate the title from the description using a blank line
 
 Title should be at the imperative
+
+This is a ssh test.
